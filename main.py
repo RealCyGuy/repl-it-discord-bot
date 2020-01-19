@@ -17,6 +17,6 @@ async def on_ready():
     return
 
 
-keep_alive.keep_alive
+keep_alive.keep_alive()
 
 client.run(os.environ['BOT_TOKEN'])
