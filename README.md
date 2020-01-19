@@ -8,3 +8,5 @@ Put the token into the env file.
 Rename it from `env.example` to `.env`.
 Make uptime robot ping it.
 Ok, not good explanation but ok.
+
+[![Run on Repl.it](https://repl.it/badge/github/RealCyGuy/repl-it-discord-bot)](https://repl.it/github/RealCyGuy/repl-it-discord-bot)
